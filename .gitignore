@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+colorgram/
+colorgram.py
+__init__.py
+venv
